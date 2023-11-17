@@ -5,7 +5,7 @@
 def get_state_temp(one_record):
     """This function retrieves the state of radios and temp from one record"""
     pass
-
+"""COMENTARIO"""
 
 def display_state_temp(bluetooth, wifi, dev_temp):
     # Determine state of radios
